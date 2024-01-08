@@ -90,7 +90,7 @@ export const Register = () => {
             />
           </div>
           <div className='form-group'>
-            <button className='btn btn-block'>Submit</button>
+            <button className='btn btn-block'>Register</button>
           </div>
         </form>
       </section>
